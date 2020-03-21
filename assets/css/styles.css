@@ -1,0 +1,62 @@
+.underline {
+  text-decoration: underline overline;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  text-align: center;
+}
+
+.Section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.Header {
+  background-color: #121111;
+  color: #cff1ef;
+}
+
+.Education {
+  background-color: #121111;
+  color: #cff1ef;
+}
+
+.Footer {
+  color: #121111;
+  background-color: red;
+  height: auto;
+}
+
+.Footer {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.icons {
+  font-size: 2.5rem;
+  color: #121111;
+  margin: 2rem;
+}
+
+a:hover {
+  color: #cff1ef;
+}
+
+.school {
+  display: block;
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  height: auto;
+  border-radius: 100%;
+}
+
+.image {
+  width: 10rem;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.text-light.text-capitalize.text-left {
+  background-color: black;
+}
+
