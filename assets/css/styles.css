@@ -5,7 +5,9 @@
 .container, .container-lg, .container-md, .container-sm, .container-xl {
   text-align: center;
 }
-
+.container{
+padding-top:3rem;
+}
 .Section {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -59,4 +61,3 @@ a:hover {
 .navbar.navbar-dark.navbar-expand-md.fixed-top.text-light.text-capitalize.text-left {
   background-color: black;
 }
-
