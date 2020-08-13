@@ -1,19 +1,9 @@
-.under_over_line {
+.underline {
   text-decoration: underline overline;
 }
 
-.underline{
-  text-decoration: underline;
-}
-
-
-
 .container, .container-lg, .container-md, .container-sm, .container-xl {
   text-align: center;
-}
-
-.container {
-  padding-top: 3rem;
 }
 
 .Section {
@@ -35,15 +25,11 @@
   color: #121111;
   background-color: red;
   height: auto;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
-
-.container-footer {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  text-align: center;
+.Footer {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .icons {
@@ -73,3 +59,4 @@ a:hover {
 .navbar.navbar-dark.navbar-expand-md.fixed-top.text-light.text-capitalize.text-left {
   background-color: black;
 }
+
